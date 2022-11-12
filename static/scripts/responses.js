@@ -62,7 +62,7 @@ function getBotResponse(input) {
     }
 
     if(input == 'Tengo una duda'){
-        return "¿En que podemos ayudarte?";
+        return "Prueba escribiendo ayuda";
     }
 
     if(input=="❤️"){
